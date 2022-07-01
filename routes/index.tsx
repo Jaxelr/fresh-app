@@ -11,8 +11,7 @@ export default function Home() {
         alt="the fresh logo: a sliced lemon dripping with juice"
       />
       <p>
-        Welcome to `fresh`. I'm updating this message in the ./routes/index.tsx
-        file, .
+        Welcome to my `fresh` test web app. This was done in less than 5 minutes.
       </p>
       <Counter start={3} />
     </div>
